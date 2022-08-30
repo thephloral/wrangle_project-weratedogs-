@@ -30,4 +30,4 @@ I cleaned to fix the issues identified during the assessment using codes. For ea
 
 Exploratory analysis was done to uncover features and create an analytical demonstration of findings. Visualization was done to understand the data and communicate the story.
 
-**Lastly, Insights*
+**Lastly, Insights**
